@@ -1,7 +1,7 @@
 # 7.29
-1.DepthmapX网络分析调试
-2.Place Syntax Tool网络分析相关论文搜索阅读
-3.ArcGIS网络分析调试
+1. DepthmapX网络分析调试
+2. Place Syntax Tool网络分析相关论文搜索阅读
+3. ArcGIS网络分析调试
 # 7.28
 1.7月工作总结ppt制作
 2.论文中qneat3插件对北京市地铁线路与站点进行网络分析
