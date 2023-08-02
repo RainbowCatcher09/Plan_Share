@@ -1,4 +1,9 @@
 # Plan_Share_CX
+## 8.1
+1. Delta Coverage Gurobi求解算法代码全部
+2. Delta Coverage 精确算法代码全部
+3. 贪婪算法计算有误，修改运行逻辑
+
 ## 7.31
 1. 完成SDG11翻译文档
 2. 遥感AI推荐文献*2
