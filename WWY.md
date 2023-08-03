@@ -1,3 +1,11 @@
+# 8.2
+1.Graphhopper进行最短路径分析
+2.OSMnx中尝试进行最短路径分析
+3.cityseer-api在python中进行插件安装
+4.论文继续进展
+# 8.1
+1.网络分析软件论文第二章第二节研究方法ArcGIS、SuperMap、DepthMapX、QUEAT3工具分析部分书写
+2.Kaggle遥感识别竞赛农作物识别训练模型复现
 # 7.31
 1. 做了supermap、arcgis、depthmap、Qgis网络分析相关图
 2. 遥感ai论文推荐两篇
