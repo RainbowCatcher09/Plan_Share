@@ -1,4 +1,10 @@
 # Plan_Share_CX
+## 8.2
+1. 进一步修改Delta coverage basic model的贪婪算法
+2. 对比三种算法的结果
+3. 学习多目标函数的模型求解方法
+4. 阅读关于Exact algorithm in multiobjective optimization相关文献
+
 ## 8.1
 1. Delta Coverage Gurobi求解算法代码全部
 2. Delta Coverage 精确算法代码全部
