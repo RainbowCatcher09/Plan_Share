@@ -1,3 +1,7 @@
+# 8.3
+1.在Qgis中对Place Syntax Tool 工具使用方法摸索。
+2.Continuity in Street Networks、Spaghetti插件安装与摸索。
+3.SDG11包容、安全、弹性的可持续发展人类住区相关文献搜索。
 # 8.2
 1.Graphhopper进行最短路径分析
 2.OSMnx中尝试进行最短路径分析
