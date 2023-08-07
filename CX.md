@@ -1,4 +1,10 @@
 # Plan_Share_CX
+## 8.4
+1. 完成更新后的模型公式
+2. 继续更新python算法
+3. 完成组会ppt
+4. SDG15文献综述+查找25篇文献
+
 ## 8.3
 1. 更新delta coverage问题模型
 2. 更新python算法
