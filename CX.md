@@ -1,4 +1,10 @@
 # Plan_Share_CX
+## 8.3
+1. 更新delta coverage问题模型
+2. 更新python算法
+3. 寻找SDG15相关的文献
+4. 修改SDG11 cases的部分语法
+   
 ## 8.2
 1. 进一步修改Delta coverage basic model的贪婪算法
 2. 对比三种算法的结果
