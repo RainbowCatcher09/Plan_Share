@@ -1,4 +1,8 @@
 # Plan_Share_LC
+### 8月11日
+- 参加组会
+- Friday discussion
+- 下载文献
 ### 8月10日
 - 总共下载了两个期刊的文件
 - 完成英语角ppt
