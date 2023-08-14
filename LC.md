@@ -1,4 +1,7 @@
 # Plan_Share_LC
+### 8月14日
+- 下载地理信息科学文献
+- 写劳务总结
 ### 8月11日
 - 参加组会
 - Friday discussion
