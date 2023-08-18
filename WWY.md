@@ -1,3 +1,11 @@
+# 8.17
+1.期刊文献下载。
+2.收集2017年关于高光谱深度学习找矿英文文献25篇。
+3.完成Friday discussion文字部分。
+# 8.16
+1.做Friday discussion PPT。
+2.下载science China earth sciences期刊文献。
+3.勾画样本320+。
 # 8.15
 1.修改下载的中国科学-地球科学期刊文献名字。
 2.使用python爬取美国伊利诺伊州Livingston County的行政边界与坐标。
